@@ -1,6 +1,4 @@
 # How to use
-
- ## Copy the code Or go to emptier.js and copy
   ```javascript
       const selectedContainers = document.querySelectorAll('._OxEpxzAgJiTENfolVUN')
 
@@ -12,9 +10,9 @@
           return item.querySelector('.TT1tIewS2iI8Uz8kLuQB').querySelector('.DbMYFmOEEz9PH1h1zK9n').querySelector('.Fm7C3gdh5Lsc9qSXrQwO').click();
       })
   ```
-  
- ## Go to https://open.spotify.com/collection/episodes page
- ## Open to browser console
- ## Paste the code
- ## Finally your liked episodes empty :) 
+ - Copy the code
+ - Go to https://open.spotify.com/collection/episodes page
+ - Open to browser console
+ - Paste the code
+ - Finally your liked episodes empty :) 
 # Congratz 

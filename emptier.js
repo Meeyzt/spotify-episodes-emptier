@@ -5,5 +5,5 @@ const containers = Object.keys(selectedContainers).map((key) => {
 })
 
 containers.map((item) => {
-    return item.querySelector('.TT1tIewS2iI8Uz8kLuQB').querySelector('.DbMYFmOEEz9PH1h1zK9n').querySelector('.Fm7C3gdh5Lsc9qSXrQwO').click();
+    return item.querySelector('.TT1tIewS2iI8Uz8kLuQB .DbMYFmOEEz9PH1h1zK9n .Fm7C3gdh5Lsc9qSXrQwO').click();
 })
